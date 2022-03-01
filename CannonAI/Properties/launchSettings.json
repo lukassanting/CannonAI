@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CannonAI": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
